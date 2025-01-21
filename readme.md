@@ -105,7 +105,6 @@ python -m ipykernel install --user --name=nombre_entorno
 ### 2. Problemas con Dependencias
 
 ```powershell
-cd .\entorno\
 pip install --upgrade -r requirements.txt
 ```
 
