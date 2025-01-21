@@ -85,12 +85,12 @@ print("✨ Todas las dependencias están correctamente instaladas")
 proyecto_segmentacion/
 │
 ├── 🔧 .venv/                # Entorno virtual
-├── ⚙️ entorno/             # Archivos de configuración
-│   └── requirements.txt     # Lista de dependencias
-├── 📸 images/              # Imágenes originales
-├── ✅ ground_truth/        # Ground truths
-├── 📓 notebooks/           # Notebooks de Jupyter
-└── 📊 results/             # Resultados
+├── 📝 requirements.txt     # Lista de dependencias
+├── 📘 README.md           # Documentación del proyecto
+├── 📸 images/             # Imágenes originales
+├── ✅ ground_truth/       # Ground truths
+├── 📓 notebooks/          # Notebooks de Jupyter
+└── 📊 results/            # Resultados
 ```
 
 ## ❗ Solución de Problemas
