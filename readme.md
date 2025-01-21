@@ -52,8 +52,6 @@ pip install --upgrade setuptools wheel
 ### 3. Instalar Dependencias
 
 ```powershell
-# Navegar al directorio de configuración
-cd .\entorno\
 
 # Instalar desde requirements.txt
 pip install -r requirements.txt
